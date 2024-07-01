@@ -5,7 +5,7 @@ go 1.22
 toolchain go1.22.4
 
 require (
-	github.com/docker/docker v27.0.0+incompatible
+	github.com/docker/docker v27.0.2+incompatible
 	github.com/gin-gonic/gin v1.10.0
 	golang.org/x/exp v0.0.0-20240613232115-7f521ea00fb8
 )
