@@ -5,7 +5,7 @@ go 1.23.0
 toolchain go1.24.4
 
 require (
-	github.com/docker/docker v28.2.2+incompatible
+	github.com/docker/docker v28.3.0+incompatible
 	github.com/gin-gonic/gin v1.10.1
 	golang.org/x/exp v0.0.0-20250620022241-b7579e27df2b
 )
