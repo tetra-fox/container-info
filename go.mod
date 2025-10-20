@@ -2,10 +2,10 @@ module github.com/tetra-fox/container-info
 
 go 1.24.0
 
-toolchain go1.25.1
+toolchain go1.25.3
 
 require (
-	github.com/docker/docker v28.5.0+incompatible
+	github.com/docker/docker v28.5.1+incompatible
 	github.com/gin-gonic/gin v1.11.0
 	golang.org/x/exp v0.0.0-20251017212417-90e834f514db
 )
