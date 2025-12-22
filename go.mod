@@ -7,7 +7,7 @@ toolchain go1.25.5
 require (
 	github.com/docker/docker v28.5.2+incompatible
 	github.com/gin-gonic/gin v1.11.0
-	golang.org/x/exp v0.0.0-20251209150349-8475f28825e9
+	golang.org/x/exp v0.0.0-20251219203646-944ab1f22d93
 )
 
 require (
