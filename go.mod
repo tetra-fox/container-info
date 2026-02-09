@@ -2,7 +2,7 @@ module github.com/tetra-fox/container-info
 
 go 1.24.0
 
-toolchain go1.25.6
+toolchain go1.25.7
 
 require (
 	github.com/docker/docker v28.5.2+incompatible
